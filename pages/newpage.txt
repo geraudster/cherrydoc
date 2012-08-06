@@ -1,0 +1,11 @@
+New page
+========
+:author: geraud
+:backend: html5
+:lang: en
+
+First Section
+-------------
+
+Blah blah blah...
+
